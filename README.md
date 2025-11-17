@@ -80,10 +80,10 @@ This makes it much easier to optimize prompts and analyze how the model behaves.
 
 ---
 
-![Alt text](Langchain_demo/image1.png)
+![Alt text](image1.png)
 
 ---
 
-![Alt text](Langchain_demo/image2.png)
+![Alt text](image2.png)
 
 
